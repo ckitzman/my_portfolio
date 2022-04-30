@@ -45,73 +45,26 @@
 ![Example Favorites](./assets/img/screenshot7.png)
 ![Example Contact](./assets/img/screenshot8.png)
 
----------------------------------------
-
-
-<!--
-
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
+The custom domain allows users to easily navigate to the web page at calebkitzman.com. Alias's have been set up to direct www.calebkitzman and the root page calebkitzman.com to the same underlying Azure web app. The original Azure url that the domains reference is located at black-cliff-048749210.1.azurestaticapps.net.
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
+Project is: _in progress_
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Background photo should not duplicate the photos added. Needs to be fit correctly.
+- Duplicate favorites when full screen on desktop. Should only show the 5 favorites.
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
-
+- Add Google Maps API link to Des Moines, not New York
+- Add PHP contact form, so emails go directly to me (unavailable on free template, need to pay or create my own)
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
+- This project was inspired by Prof. Mike Colbert (Professor of Business Analytics and Information Systems, Tippie College of Business, The University of Iowa)
+- This project was based on [this template](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@calebkitzman](https://www.calebkitzman.com/) - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
-
--->
