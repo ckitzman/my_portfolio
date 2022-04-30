@@ -36,7 +36,7 @@
 - Charts, Favicon, and images
 
 ## Screenshots
-[Example screenshot](./img/screenshot1.png)
+![Example screenshot](./assets/img/screenshot1.png)
 
 ---------------------------------------
 
