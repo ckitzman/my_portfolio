@@ -36,7 +36,14 @@
 - Charts, Favicon, and images
 
 ## Screenshots
-![Example screenshot](./assets/img/screenshot1.png)
+![Example Navigation Pane](./assets/img/screenshot2.png)
+![Example About](./assets/img/screenshot1.png)
+![Example Accomplishments](./assets/img/screenshot3.png)
+![Example Skills](./assets/img/screenshot4.png)
+![Example Resume](./assets/img/screenshot5.png)
+![Example Interests](./assets/img/screenshot6.png)
+![Example Favorites](./assets/img/screenshot7.png)
+![Example Contact](./assets/img/screenshot8.png)
 
 ---------------------------------------
 
