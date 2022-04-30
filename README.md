@@ -1,6 +1,6 @@
 # My Personal Website
 > This project revolves around creating my own web presence online. Utilizing a Boostrap template I have created my  own portfolio site that is all about me, my interests, and my accomplishments.
-> Live demo [_here_] (https://www.calebkitzman.com/)
+> Live demo [_here_](https://www.calebkitzman.com/)
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -36,7 +36,7 @@
 - Charts, Favicon, and images
 
 ## Screenshots
-[Example screenshot] (./img/screenshot1.jpg)
+[Example screenshot] (./img/screenshot1.png)
 
 ---------------------------------------
 
